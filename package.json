@@ -5,7 +5,7 @@
     "type": "git",
     "url": "git://github.com/dahmian/metalsmith-json-generator.git"
   },
-  "version": "0.1",
+  "version": "0.0.1",
   "license": "MIT",
   "main": "lib/index.js",
   "dependencies": {
