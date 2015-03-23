@@ -1,0 +1,23 @@
+{
+  "name": "metalsmith-json-generator",
+  "description": "A Metalsmith plugin that creates JSON files.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dahmian/metalsmith-json-generator.git"
+  },
+  "version": "0.1",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "1.x",
+    "metalsmith": "0.x",
+    "assert-dir-equal": "0.x"
+  },
+  "readmeFilename": "Readme.md",
+  "bugs": {
+    "url": "https://github.com/dahmian/metalsmith-json-generator/issues"
+  },
+  "homepage": "https://github.com/segmentio/metalsmith-json-generator"
+}
