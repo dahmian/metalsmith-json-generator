@@ -9,6 +9,7 @@
   "license": "MIT",
   "main": "lib/index.js",
   "dependencies": {
+    "clone": "^1.0.1"
   },
   "devDependencies": {
     "mocha": "1.x",
